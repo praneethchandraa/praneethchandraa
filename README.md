@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently exploring research topics in AI for my masters thesis
-- 🌱 I’m currently pursuing my masters degree in AI at Boston University
+- 🌱 I’m pursuing my masters degree in AI at Boston University
 - 💻 I currently looking to intership opportunities for the upcoming summer 
 - 📫 How to reach me: [pranchan@bu.edu](pranchan@bu.edu), [praneeth.bogineni@gmail.com](praneeth.bogineni@gmail.com)
 

@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently exploring research topics in AI for my masters thesis
+- 🔭 I’m currently working on multimodal Deep Learning techniques to model the open-ended sentiment reaction of humans to media
 - 🌱 I’m pursuing my masters degree in AI at Boston University
-- 💻 I currently looking for intership opportunities for the upcoming summer 
+- 💻 I currently looking for full-time opportunities from January 2023
 - 📫 How to reach me: [pranchan@bu.edu](pranchan@bu.edu), [praneeth.bogineni@gmail.com](praneeth.bogineni@gmail.com)
 
 

@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Multimodal Learning techniques to model the open-ended sentiment reaction of humans
 - 🌱 I’m pursuing my masters degree in AI at Boston University
-- 💻 I currently looking for full-time opportunities from January 2023
+- 💻 I'm currently looking for full-time opportunities from January 2023
 - 📫 How to reach me: [pranchan@bu.edu](pranchan@bu.edu), [praneeth.bogineni@gmail.com](praneeth.bogineni@gmail.com)
 
 
